@@ -1,0 +1,10 @@
+wandb
+bs4
+langchain-text-splitters
+lxml
+transformers
+sqlalchemy
+fastapi
+pg8000
+uvicorn
+python-dotenv
